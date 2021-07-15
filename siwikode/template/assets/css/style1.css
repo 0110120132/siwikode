@@ -1,0 +1,56 @@
+
+.jumbotron{
+    background-color: #007bff;
+} 
+
+.display-4 {
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.lead {
+    color: whitesmoke;
+}
+
+/*detail wisata 1*/
+
+#testimony {
+    background-color: #007bff;
+}
+
+.rating {
+    color: yellow;
+}
+
+.carou {
+    height: 100%;
+}
+
+.map {
+    width: 100%;
+    padding: 2%;
+}
+
+.grap {
+    width: 54%;
+    padding: 1%;
+}
+
+.pos {
+    padding:1%;
+    margin-left: 4%;
+    
+}
+
+/* datakuliner1*/
+
+.carou {
+    width: 100%;
+    height: 70vh;
+}
+
+/* admin */
+
+.star {
+     color:orange;
+}
